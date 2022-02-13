@@ -149,7 +149,8 @@ Within the static-assignments folder, create a new assignment for uat-webservers
 ```
 ansible-playbook -i /home/ec2-user/ansible/ansible-config/inventory/uat /home/ec2-user/ansible/ansible-config/playbooks/site.yaml
 ```
-![image](https://user-images.githubusercontent.com/41236641/153749676-616a23de-932d-4430-9479-1e23053ea9ca.png)
+![image](https://user-images.githubusercontent.com/41236641/153750509-1341f08b-2726-4b6e-983f-80fc78630311.png)
+
 
 ### Blocker
 
