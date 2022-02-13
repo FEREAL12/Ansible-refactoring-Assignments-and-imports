@@ -146,10 +146,11 @@ Within the static-assignments folder, create a new assignment for uat-webservers
 - hosts: uat-webservers
 - import_playbook: ../static-assignments/uat-webservers.yml
 ```
+```
 ansible-playbook -i /home/ec2-user/ansible/ansible-config/inventory/uat /home/ec2-user/ansible/ansible-config/playbooks/site.yaml
-
+```
   
-###Blocker
+### Blocker
 
 #### Payload Url 
 
